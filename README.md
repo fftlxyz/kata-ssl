@@ -1,4 +1,4 @@
-双向互相认真自签名证书例子
+双向互相认证自签名证书例子
 
 Netty SSL Server and OKHttps SSL client， 具体见代码。
 
